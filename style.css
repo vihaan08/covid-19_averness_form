@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@300&display=swap');
+
+
+*{
+    padding: 1;
+    margin: 1;
+}
+body{
+    font-family: 'Noto Sans HK', sans-serif;
+    background-image: url(https://www.fda.gov/files/covid19-1600x900.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+form {
+    background-color: white;
+    margin: 2% 10%;
+    padding: 25px;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+    color: whitesmoke;
+    
+}
+
+#button{
+    padding: 9px;
+    background-color: rgb(255, 0, 0);
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+label{
+    font-size: 21px;
+}
